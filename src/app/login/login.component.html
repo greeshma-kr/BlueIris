@@ -1,0 +1,10 @@
+<div class="loginContainer">
+    <div class="login">
+        <h1>Login </h1>
+        <form method="post">
+            <input type="text" name="u" [(ngModel)]="user" placeholder="Username" required="required" />
+            <input type="password" [(ngModel)]="password" name="p" placeholder="Password" required="required" />
+            <button type="submit" class="btn btn-primary btn-block btn-large" (click)="login()">Login</button>
+        </form>
+    </div>
+    </div>

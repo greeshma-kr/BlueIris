@@ -1,0 +1,17 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "greeshma",
+      "password": "123456",
+      "userDetails":{
+        "name":"Greeshma K Rajan",
+        "location":"Dubai",
+        "username":"@greeshma"
+      }
+
+      
+    }
+  ]
+  
+}
